@@ -35,4 +35,3 @@ IDE Used - Visual Studio Code
 23.Wishlist
 24.Cash On Delivery (Cashless order)
 25.Deployment to Digital Ocean Cloud
-
