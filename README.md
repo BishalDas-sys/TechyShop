@@ -2,7 +2,7 @@
 
 
 # DEPENDENCEIES
-Frontend:  React.js, Material-ui & Redux
+Frontend:  React.js, Material-ui & Redux \n
 Backend: Node.js and Express.js
 Database: MongoDB
 Payment Gateway: Paytm
